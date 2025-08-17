@@ -1,4 +1,17 @@
 # CODTECH-IT-internship-Task-3
+
+SENTIMENT ANALYSIS ON TEXTUAL DATA using NPL Company - CODTECH IT SOLUTIONS
+
+Name - AMEEN KHAN S A
+
+Intern ID - CT04DY969
+
+Domain - DATA ANALYTICS
+
+Duration - 4 WEEKS
+
+Mentor - NEELA SANTOSH
+
 INTERACTIVE DASHBOARD OF SALES IN ELECTRONIC GADGETS 
 
 This project is a Sales Analysis Dashboard created in Power BI. The main goal of this dashboard is to analyze sales data in an interactive and visual way. It helps to understand business performance through different charts and visuals instead of raw numbers.
